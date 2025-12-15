@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "hugo server -D",
-    "build": "hugo",
+    "build": "hugo --minify",
+    "build:vercel": "hugo --minify --baseURL /",
     "clean": "rm -rf public"
   },
   "keywords": ["hugo", "static-site"],
@@ -16,6 +17,7 @@
     "autoprefixer": "^10.4.22",
     "postcss": "^8.5.6",
     "postcss-cli": "^11.0.1",
-    "tailwindcss": "^4.1.18"
+    "tailwindcss": "^4.1.18",
+    "hugo-bin": "^0.111.3"
   }
 }
