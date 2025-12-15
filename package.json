@@ -7,7 +7,8 @@
     "dev": "hugo server -D",
     "build": "hugo --minify",
     "build:vercel": "hugo --minify --baseURL /",
-    "clean": "rm -rf public"
+    "clean": "rm -rf public",
+    "postinstall": "chmod +x node_modules/.bin/*"
   },
   "keywords": ["hugo", "static-site"],
   "author": "",
