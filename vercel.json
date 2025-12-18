@@ -1,5 +1,5 @@
 {
-  "buildCommand": "npm run build:css && hugo --gc --minify",
+  "buildCommand": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/compiled.css --minify && hugo --gc --minify",
   "outputDirectory": "public",
   "installCommand": "npm install",
   "framework": "hugo",
