@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Loot Boxes on Battle Royale Fanatics</title>
-    <link>/tags/loot-boxes/</link>
+    <link>//localhost:1313/tags/loot-boxes/</link>
     <description>Recent content in Loot Boxes on Battle Royale Fanatics</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Dec 2025 03:00:00 +0600</lastBuildDate><atom:link href="/tags/loot-boxes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Dec 2025 03:00:00 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/loot-boxes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Psychology of Loot Boxes: Understanding Gaming&#39;s Most Controversial Feature</title>
-      <link>/latest-articles/the-psychology-of-loot-boxes-understanding-gamings-most-controversial-feature/</link>
+      <link>//localhost:1313/latest-articles/the-psychology-of-loot-boxes-understanding-gamings-most-controversial-feature/</link>
       <pubDate>Sun, 14 Dec 2025 03:00:00 +0600</pubDate>
-      
-      <guid>/latest-articles/the-psychology-of-loot-boxes-understanding-gamings-most-controversial-feature/</guid>
+      <guid>//localhost:1313/latest-articles/the-psychology-of-loot-boxes-understanding-gamings-most-controversial-feature/</guid>
       <description>Examining the psychological mechanisms behind loot boxes and their impact on players.</description>
     </item>
-    
   </channel>
 </rss>

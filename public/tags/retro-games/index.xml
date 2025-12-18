@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Retro Games on Battle Royale Fanatics</title>
-    <link>/tags/retro-games/</link>
+    <link>//localhost:1313/tags/retro-games/</link>
     <description>Recent content in Retro Games on Battle Royale Fanatics</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Dec 2025 15:45:00 +0600</lastBuildDate><atom:link href="/tags/retro-games/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Dec 2025 15:45:00 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/retro-games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Retro Gaming Revival: Why Classic Games Are Making a Comeback</title>
-      <link>/latest-articles/retro-gaming-revival-why-classic-games-are-making-a-comeback/</link>
+      <link>//localhost:1313/latest-articles/retro-gaming-revival-why-classic-games-are-making-a-comeback/</link>
       <pubDate>Sun, 14 Dec 2025 15:45:00 +0600</pubDate>
-      
-      <guid>/latest-articles/retro-gaming-revival-why-classic-games-are-making-a-comeback/</guid>
+      <guid>//localhost:1313/latest-articles/retro-gaming-revival-why-classic-games-are-making-a-comeback/</guid>
       <description>The resurgence of retro gaming and why classic titles continue to captivate modern audiences.</description>
     </item>
-    
   </channel>
 </rss>

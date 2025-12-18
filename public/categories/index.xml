@@ -1,614 +1,439 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Battle Royale Fanatics</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Battle Royale Fanatics</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Game Categories on Battle Royale Fanatics</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Game Categories on Battle Royale Fanatics</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Dec 2025 10:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Apex Legends</title>
-      <link>/categories/apex-legends/</link>
-      <pubDate>Thu, 18 Dec 2025 10:00:00 +0000</pubDate>
-      
-      <guid>/categories/apex-legends/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 18 Dec 2025 10:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Championship</title>
-      <link>/categories/championship/</link>
+      <link>//localhost:1313/categories/championship/</link>
       <pubDate>Thu, 18 Dec 2025 10:00:00 +0000</pubDate>
-      
-      <guid>/categories/championship/</guid>
+      <guid>//localhost:1313/categories/championship/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Esports</title>
-      <link>/categories/esports/</link>
+      <link>//localhost:1313/categories/esports/</link>
       <pubDate>Thu, 18 Dec 2025 10:00:00 +0000</pubDate>
-      
-      <guid>/categories/esports/</guid>
+      <guid>//localhost:1313/categories/esports/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Meta</title>
-      <link>/categories/meta/</link>
+      <link>//localhost:1313/categories/meta/</link>
       <pubDate>Wed, 17 Dec 2025 15:30:00 +0000</pubDate>
-      
-      <guid>/categories/meta/</guid>
+      <guid>//localhost:1313/categories/meta/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Updates</title>
-      <link>/categories/updates/</link>
+      <link>//localhost:1313/categories/updates/</link>
       <pubDate>Wed, 17 Dec 2025 15:30:00 +0000</pubDate>
-      
-      <guid>/categories/updates/</guid>
+      <guid>//localhost:1313/categories/updates/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>New Legend</title>
-      <link>/categories/new-legend/</link>
+      <link>//localhost:1313/categories/new-legend/</link>
       <pubDate>Tue, 16 Dec 2025 09:45:00 +0000</pubDate>
-      
-      <guid>/categories/new-legend/</guid>
+      <guid>//localhost:1313/categories/new-legend/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Maps</title>
-      <link>/categories/maps/</link>
+      <link>//localhost:1313/categories/maps/</link>
       <pubDate>Mon, 15 Dec 2025 14:20:00 +0000</pubDate>
-      
-      <guid>/categories/maps/</guid>
+      <guid>//localhost:1313/categories/maps/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Gaming</title>
-      <link>/categories/gaming/</link>
+      <link>//localhost:1313/categories/gaming/</link>
       <pubDate>Mon, 15 Dec 2025 10:00:00 +0600</pubDate>
-      
-      <guid>/categories/gaming/</guid>
+      <guid>//localhost:1313/categories/gaming/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Technology</title>
-      <link>/categories/technology/</link>
+      <link>//localhost:1313/categories/technology/</link>
       <pubDate>Mon, 15 Dec 2025 10:00:00 +0600</pubDate>
-      
-      <guid>/categories/technology/</guid>
+      <guid>//localhost:1313/categories/technology/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hardware</title>
-      <link>/categories/hardware/</link>
+      <link>//localhost:1313/categories/hardware/</link>
       <pubDate>Mon, 15 Dec 2025 09:30:00 +0600</pubDate>
-      
-      <guid>/categories/hardware/</guid>
+      <guid>//localhost:1313/categories/hardware/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mobile</title>
-      <link>/categories/mobile/</link>
+      <link>//localhost:1313/categories/mobile/</link>
       <pubDate>Mon, 15 Dec 2025 08:45:00 +0600</pubDate>
-      
-      <guid>/categories/mobile/</guid>
+      <guid>//localhost:1313/categories/mobile/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Education</title>
-      <link>/categories/education/</link>
+      <link>//localhost:1313/categories/education/</link>
       <pubDate>Mon, 15 Dec 2025 08:00:00 +0600</pubDate>
-      
-      <guid>/categories/education/</guid>
+      <guid>//localhost:1313/categories/education/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Indie Games</title>
-      <link>/categories/indie-games/</link>
+      <link>//localhost:1313/categories/indie-games/</link>
       <pubDate>Sun, 14 Dec 2025 18:00:00 +0600</pubDate>
-      
-      <guid>/categories/indie-games/</guid>
+      <guid>//localhost:1313/categories/indie-games/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Viewership</title>
-      <link>/categories/viewership/</link>
+      <link>//localhost:1313/categories/viewership/</link>
       <pubDate>Sun, 14 Dec 2025 11:00:00 +0000</pubDate>
-      
-      <guid>/categories/viewership/</guid>
+      <guid>//localhost:1313/categories/viewership/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Psychology</title>
-      <link>/categories/psychology/</link>
+      <link>//localhost:1313/categories/psychology/</link>
       <pubDate>Sun, 14 Dec 2025 16:30:00 +0600</pubDate>
-      
-      <guid>/categories/psychology/</guid>
+      <guid>//localhost:1313/categories/psychology/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Retro Gaming</title>
-      <link>/categories/retro-gaming/</link>
+      <link>//localhost:1313/categories/retro-gaming/</link>
       <pubDate>Sun, 14 Dec 2025 15:45:00 +0600</pubDate>
-      
-      <guid>/categories/retro-gaming/</guid>
+      <guid>//localhost:1313/categories/retro-gaming/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Business</title>
-      <link>/categories/business/</link>
+      <link>//localhost:1313/categories/business/</link>
       <pubDate>Sun, 14 Dec 2025 14:15:00 +0600</pubDate>
-      
-      <guid>/categories/business/</guid>
+      <guid>//localhost:1313/categories/business/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Development</title>
-      <link>/categories/development/</link>
+      <link>//localhost:1313/categories/development/</link>
       <pubDate>Sun, 14 Dec 2025 13:30:00 +0600</pubDate>
-      
-      <guid>/categories/development/</guid>
+      <guid>//localhost:1313/categories/development/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Community</title>
-      <link>/categories/community/</link>
+      <link>//localhost:1313/categories/community/</link>
       <pubDate>Sun, 14 Dec 2025 12:00:00 +0600</pubDate>
-      
-      <guid>/categories/community/</guid>
+      <guid>//localhost:1313/categories/community/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Design</title>
-      <link>/categories/design/</link>
+      <link>//localhost:1313/categories/design/</link>
       <pubDate>Sun, 14 Dec 2025 06:45:00 +0600</pubDate>
-      
-      <guid>/categories/design/</guid>
+      <guid>//localhost:1313/categories/design/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Streaming</title>
-      <link>/categories/streaming/</link>
+      <link>//localhost:1313/categories/streaming/</link>
       <pubDate>Sun, 14 Dec 2025 06:00:00 +0600</pubDate>
-      
-      <guid>/categories/streaming/</guid>
+      <guid>//localhost:1313/categories/streaming/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Economics</title>
-      <link>/categories/economics/</link>
+      <link>//localhost:1313/categories/economics/</link>
       <pubDate>Sun, 14 Dec 2025 04:30:00 +0600</pubDate>
-      
-      <guid>/categories/economics/</guid>
+      <guid>//localhost:1313/categories/economics/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Industry</title>
-      <link>/categories/industry/</link>
+      <link>//localhost:1313/categories/industry/</link>
       <pubDate>Sun, 14 Dec 2025 02:15:00 +0600</pubDate>
-      
-      <guid>/categories/industry/</guid>
+      <guid>//localhost:1313/categories/industry/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Health</title>
-      <link>/categories/health/</link>
+      <link>//localhost:1313/categories/health/</link>
       <pubDate>Sun, 14 Dec 2025 01:30:00 +0600</pubDate>
-      
-      <guid>/categories/health/</guid>
+      <guid>//localhost:1313/categories/health/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Accessibility</title>
-      <link>/categories/accessibility/</link>
+      <link>//localhost:1313/categories/accessibility/</link>
       <pubDate>Sat, 13 Dec 2025 22:30:00 +0600</pubDate>
-      
-      <guid>/categories/accessibility/</guid>
+      <guid>//localhost:1313/categories/accessibility/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Events</title>
-      <link>/categories/events/</link>
+      <link>//localhost:1313/categories/events/</link>
       <pubDate>Sat, 13 Dec 2025 16:30:00 +0000</pubDate>
-      
-      <guid>/categories/events/</guid>
+      <guid>//localhost:1313/categories/events/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Relationships</title>
-      <link>/categories/relationships/</link>
+      <link>//localhost:1313/categories/relationships/</link>
       <pubDate>Sat, 13 Dec 2025 21:00:00 +0600</pubDate>
-      
-      <guid>/categories/relationships/</guid>
+      <guid>//localhost:1313/categories/relationships/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Event</title>
-      <link>/categories/event/</link>
+      <link>//localhost:1313/categories/event/</link>
       <pubDate>Sat, 13 Dec 2025 20:30:00 +0600</pubDate>
-      
-      <guid>/categories/event/</guid>
+      <guid>//localhost:1313/categories/event/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Overwatch</title>
-      <link>/categories/overwatch/</link>
+      <link>//localhost:1313/categories/overwatch/</link>
       <pubDate>Sat, 13 Dec 2025 20:30:00 +0600</pubDate>
-      
-      <guid>/categories/overwatch/</guid>
+      <guid>//localhost:1313/categories/overwatch/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>News</title>
-      <link>/categories/news/</link>
+      <link>//localhost:1313/categories/news/</link>
       <pubDate>Sat, 13 Dec 2025 19:00:00 +0600</pubDate>
-      
-      <guid>/categories/news/</guid>
+      <guid>//localhost:1313/categories/news/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>PvE</title>
-      <link>/categories/pve/</link>
+      <link>//localhost:1313/categories/pve/</link>
       <pubDate>Sat, 13 Dec 2025 19:00:00 +0600</pubDate>
-      
-      <guid>/categories/pve/</guid>
+      <guid>//localhost:1313/categories/pve/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>GTA</title>
-      <link>/categories/gta/</link>
+      <link>//localhost:1313/categories/gta/</link>
       <pubDate>Sat, 13 Dec 2025 18:30:00 +0600</pubDate>
-      
-      <guid>/categories/gta/</guid>
+      <guid>//localhost:1313/categories/gta/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Music</title>
-      <link>/categories/music/</link>
+      <link>//localhost:1313/categories/music/</link>
       <pubDate>Sat, 13 Dec 2025 18:30:00 +0600</pubDate>
-      
-      <guid>/categories/music/</guid>
+      <guid>//localhost:1313/categories/music/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Battle Royale</title>
-      <link>/categories/battle-royale/</link>
+      <link>//localhost:1313/categories/battle-royale/</link>
       <pubDate>Sat, 13 Dec 2025 18:00:00 +0600</pubDate>
-      
-      <guid>/categories/battle-royale/</guid>
+      <guid>//localhost:1313/categories/battle-royale/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Culture</title>
-      <link>/categories/culture/</link>
+      <link>//localhost:1313/categories/culture/</link>
       <pubDate>Sat, 13 Dec 2025 18:00:00 +0600</pubDate>
-      
-      <guid>/categories/culture/</guid>
+      <guid>//localhost:1313/categories/culture/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Guides</title>
-      <link>/categories/guides/</link>
+      <link>//localhost:1313/categories/guides/</link>
       <pubDate>Sat, 13 Dec 2025 18:00:00 +0600</pubDate>
-      
-      <guid>/categories/guides/</guid>
+      <guid>//localhost:1313/categories/guides/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Character Customization</title>
-      <link>/categories/character-customization/</link>
+      <link>//localhost:1313/categories/character-customization/</link>
       <pubDate>Sat, 13 Dec 2025 17:00:00 +0600</pubDate>
-      
-      <guid>/categories/character-customization/</guid>
+      <guid>//localhost:1313/categories/character-customization/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Creativity</title>
-      <link>/categories/creativity/</link>
+      <link>//localhost:1313/categories/creativity/</link>
       <pubDate>Sat, 13 Dec 2025 16:30:00 +0600</pubDate>
-      
-      <guid>/categories/creativity/</guid>
+      <guid>//localhost:1313/categories/creativity/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>PUBG</title>
-      <link>/categories/pubg/</link>
+      <link>//localhost:1313/categories/pubg/</link>
       <pubDate>Sat, 13 Dec 2025 16:00:00 +0600</pubDate>
-      
-      <guid>/categories/pubg/</guid>
+      <guid>//localhost:1313/categories/pubg/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Balance</title>
-      <link>/categories/balance/</link>
+      <link>//localhost:1313/categories/balance/</link>
       <pubDate>Sat, 13 Dec 2025 15:30:00 +0600</pubDate>
-      
-      <guid>/categories/balance/</guid>
+      <guid>//localhost:1313/categories/balance/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Valorant</title>
-      <link>/categories/valorant/</link>
+      <link>//localhost:1313/categories/valorant/</link>
       <pubDate>Sat, 13 Dec 2025 15:30:00 +0600</pubDate>
-      
-      <guid>/categories/valorant/</guid>
+      <guid>//localhost:1313/categories/valorant/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Competitive</title>
-      <link>/categories/competitive/</link>
+      <link>//localhost:1313/categories/competitive/</link>
       <pubDate>Sat, 13 Dec 2025 14:30:00 +0600</pubDate>
-      
-      <guid>/categories/competitive/</guid>
+      <guid>//localhost:1313/categories/competitive/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>FPS</title>
-      <link>/categories/fps/</link>
+      <link>//localhost:1313/categories/fps/</link>
       <pubDate>Sat, 13 Dec 2025 14:30:00 +0600</pubDate>
-      
-      <guid>/categories/fps/</guid>
+      <guid>//localhost:1313/categories/fps/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Creative</title>
-      <link>/categories/creative/</link>
+      <link>//localhost:1313/categories/creative/</link>
       <pubDate>Sat, 13 Dec 2025 14:00:00 +0600</pubDate>
-      
-      <guid>/categories/creative/</guid>
+      <guid>//localhost:1313/categories/creative/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Fortnite</title>
-      <link>/categories/fortnite/</link>
-      <pubDate>Sat, 13 Dec 2025 14:00:00 +0600</pubDate>
-      
-      <guid>/categories/fortnite/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Online Gaming</title>
-      <link>/categories/online-gaming/</link>
+      <link>//localhost:1313/categories/online-gaming/</link>
       <pubDate>Sat, 13 Dec 2025 13:00:00 +0600</pubDate>
-      
-      <guid>/categories/online-gaming/</guid>
+      <guid>//localhost:1313/categories/online-gaming/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mobile Gaming</title>
-      <link>/categories/mobile-gaming/</link>
+      <link>//localhost:1313/categories/mobile-gaming/</link>
       <pubDate>Sat, 13 Dec 2025 12:00:00 +0600</pubDate>
-      
-      <guid>/categories/mobile-gaming/</guid>
+      <guid>//localhost:1313/categories/mobile-gaming/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ethics</title>
-      <link>/categories/ethics/</link>
+      <link>//localhost:1313/categories/ethics/</link>
       <pubDate>Sat, 13 Dec 2025 11:15:00 +0600</pubDate>
-      
-      <guid>/categories/ethics/</guid>
+      <guid>//localhost:1313/categories/ethics/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Call of Duty</title>
-      <link>/categories/call-of-duty/</link>
-      <pubDate>Sat, 13 Dec 2025 11:00:00 +0600</pubDate>
-      
-      <guid>/categories/call-of-duty/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>New Map</title>
-      <link>/categories/new-map/</link>
+      <link>//localhost:1313/categories/new-map/</link>
       <pubDate>Sat, 13 Dec 2025 11:00:00 +0600</pubDate>
-      
-      <guid>/categories/new-map/</guid>
+      <guid>//localhost:1313/categories/new-map/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Lifestyle</title>
-      <link>/categories/lifestyle/</link>
+      <link>//localhost:1313/categories/lifestyle/</link>
       <pubDate>Sat, 13 Dec 2025 10:30:00 +0600</pubDate>
-      
-      <guid>/categories/lifestyle/</guid>
+      <guid>//localhost:1313/categories/lifestyle/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>New Hero</title>
-      <link>/categories/new-hero/</link>
+      <link>//localhost:1313/categories/new-hero/</link>
       <pubDate>Sat, 13 Dec 2025 10:00:00 +0600</pubDate>
-      
-      <guid>/categories/new-hero/</guid>
+      <guid>//localhost:1313/categories/new-hero/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Open World</title>
-      <link>/categories/open-world/</link>
+      <link>//localhost:1313/categories/open-world/</link>
       <pubDate>Sat, 13 Dec 2025 09:30:00 +0600</pubDate>
-      
-      <guid>/categories/open-world/</guid>
+      <guid>//localhost:1313/categories/open-world/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Environment</title>
-      <link>/categories/environment/</link>
+      <link>//localhost:1313/categories/environment/</link>
       <pubDate>Sat, 13 Dec 2025 06:00:00 +0600</pubDate>
-      
-      <guid>/categories/environment/</guid>
+      <guid>//localhost:1313/categories/environment/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Career</title>
-      <link>/categories/career/</link>
+      <link>//localhost:1313/categories/career/</link>
       <pubDate>Fri, 12 Dec 2025 18:00:00 +0600</pubDate>
-      
-      <guid>/categories/career/</guid>
+      <guid>//localhost:1313/categories/career/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Season</title>
-      <link>/categories/season/</link>
+      <link>//localhost:1313/categories/season/</link>
       <pubDate>Fri, 12 Dec 2025 12:00:00 +0000</pubDate>
-      
-      <guid>/categories/season/</guid>
+      <guid>//localhost:1313/categories/season/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>PC Gaming</title>
-      <link>/categories/pc-gaming/</link>
+      <link>//localhost:1313/categories/pc-gaming/</link>
       <pubDate>Fri, 12 Dec 2025 16:30:00 +0600</pubDate>
-      
-      <guid>/categories/pc-gaming/</guid>
+      <guid>//localhost:1313/categories/pc-gaming/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Warzone</title>
-      <link>/categories/warzone/</link>
+      <link>//localhost:1313/categories/warzone/</link>
       <pubDate>Fri, 12 Dec 2025 15:30:00 +0600</pubDate>
-      
-      <guid>/categories/warzone/</guid>
+      <guid>//localhost:1313/categories/warzone/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Black Ops</title>
-      <link>/categories/black-ops/</link>
+      <link>//localhost:1313/categories/black-ops/</link>
       <pubDate>Fri, 12 Dec 2025 15:00:00 +0600</pubDate>
-      
-      <guid>/categories/black-ops/</guid>
+      <guid>//localhost:1313/categories/black-ops/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>New Agent</title>
-      <link>/categories/new-agent/</link>
+      <link>//localhost:1313/categories/new-agent/</link>
       <pubDate>Fri, 12 Dec 2025 12:45:00 +0600</pubDate>
-      
-      <guid>/categories/new-agent/</guid>
+      <guid>//localhost:1313/categories/new-agent/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>League of Legends</title>
-      <link>/categories/league-of-legends/</link>
-      <pubDate>Fri, 12 Dec 2025 12:00:00 +0600</pubDate>
-      
-      <guid>/categories/league-of-legends/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Live Events</title>
-      <link>/categories/live-events/</link>
+      <link>//localhost:1313/categories/live-events/</link>
       <pubDate>Fri, 12 Dec 2025 11:15:00 +0600</pubDate>
-      
-      <guid>/categories/live-events/</guid>
+      <guid>//localhost:1313/categories/live-events/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Family</title>
-      <link>/categories/family/</link>
+      <link>//localhost:1313/categories/family/</link>
       <pubDate>Thu, 11 Dec 2025 17:15:00 +0600</pubDate>
-      
-      <guid>/categories/family/</guid>
+      <guid>//localhost:1313/categories/family/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>/categories/artificial-intelligence/</link>
-      <pubDate>Wed, 10 Dec 2025 09:00:00 +0600</pubDate>
-      
-      <guid>/categories/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Games</title>
-      <link>/categories/games/</link>
-      <pubDate>Wed, 10 Dec 2025 09:00:00 +0600</pubDate>
-      
-      <guid>/categories/games/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Gaming News</title>
-      <link>/categories/gaming-news/</link>
+      <link>//localhost:1313/categories/gaming-news/</link>
       <pubDate>Tue, 09 Dec 2025 18:00:00 +0600</pubDate>
-      
-      <guid>/categories/gaming-news/</guid>
+      <guid>//localhost:1313/categories/gaming-news/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Nintendo</title>
-      <link>/categories/nintendo/</link>
+      <link>//localhost:1313/categories/nintendo/</link>
       <pubDate>Mon, 08 Dec 2025 14:00:00 +0600</pubDate>
-      
-      <guid>/categories/nintendo/</guid>
+      <guid>//localhost:1313/categories/nintendo/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

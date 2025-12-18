@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Child Development on Battle Royale Fanatics</title>
-    <link>/tags/child-development/</link>
+    <link>//localhost:1313/tags/child-development/</link>
     <description>Recent content in Child Development on Battle Royale Fanatics</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Dec 2025 04:30:00 +0600</lastBuildDate><atom:link href="/tags/child-development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Dec 2025 04:30:00 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/child-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gaming and Cognitive Development: How Games Shape Young Minds</title>
-      <link>/latest-articles/gaming-and-cognitive-development-how-games-shape-young-minds/</link>
+      <link>//localhost:1313/latest-articles/gaming-and-cognitive-development-how-games-shape-young-minds/</link>
       <pubDate>Fri, 12 Dec 2025 04:30:00 +0600</pubDate>
-      
-      <guid>/latest-articles/gaming-and-cognitive-development-how-games-shape-young-minds/</guid>
+      <guid>//localhost:1313/latest-articles/gaming-and-cognitive-development-how-games-shape-young-minds/</guid>
       <description>The impact of video games on cognitive development and learning in children and adolescents.</description>
     </item>
-    
   </channel>
 </rss>
