@@ -1,12 +1,10 @@
 {
-  "buildCommand": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/compiled.css --minify && hugo --gc --minify",
+  "buildCommand": "hugo --gc --minify",
   "outputDirectory": "public",
-  "installCommand": "npm install",
   "framework": "hugo",
   "build": {
     "env": {
-      "HUGO_VERSION": "0.152.2",
-      "NODE_ENV": "production"
+      "HUGO_VERSION": "0.152.2"
     }
   }
 }
