@@ -10,7 +10,8 @@
     content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}"
   />
 
-  {{ $styles := resources.Get "css/compiled.css" | resources.Fingerprint }}
+{{ $styles := resources.Get "css/compiled.css" | fingerprint }}
+ 
   <link
     rel="stylesheet"
     href="{{ $styles.RelPermalink }}"
