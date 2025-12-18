@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/tools/</link>
+    <link>http://localhost:1313/tags/tools/</link>
     <description>Recent content in Tools on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Dec 2025 14:00:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fortnite: Creative Mode 2.0 Update</title>
-      <link>//localhost:1313/posts/fortnite-creative-mode-2.0-update/</link>
+      <link>http://localhost:1313/posts/fortnite-creative-mode-2.0-update/</link>
       <pubDate>Sat, 13 Dec 2025 14:00:00 +0600</pubDate>
-      <guid>//localhost:1313/posts/fortnite-creative-mode-2.0-update/</guid>
+      <guid>http://localhost:1313/posts/fortnite-creative-mode-2.0-update/</guid>
       <description>Fortnite Creative Mode gets massive update with new tools and features for creators.</description>
     </item>
   </channel>

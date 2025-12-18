@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>World Cup on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/world-cup/</link>
+    <link>http://localhost:1313/tags/world-cup/</link>
     <description>Recent content in World Cup on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Dec 2025 16:30:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/world-cup/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/world-cup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Overwatch 2: World Cup 2025 Details</title>
-      <link>//localhost:1313/posts/overwatch-2-world-cup-2025-details/</link>
+      <link>http://localhost:1313/posts/overwatch-2-world-cup-2025-details/</link>
       <pubDate>Sat, 13 Dec 2025 16:30:00 +0600</pubDate>
-      <guid>//localhost:1313/posts/overwatch-2-world-cup-2025-details/</guid>
+      <guid>http://localhost:1313/posts/overwatch-2-world-cup-2025-details/</guid>
       <description>Blizzard announces Overwatch World Cup 2025 with record-breaking prize pool and new format.</description>
     </item>
     <item>
       <title>Fortnite World Cup 2025: Biggest Prize Pool Ever</title>
-      <link>//localhost:1313/posts/fortnite-world-cup-2025-biggest-prize-pool-ever/</link>
+      <link>http://localhost:1313/posts/fortnite-world-cup-2025-biggest-prize-pool-ever/</link>
       <pubDate>Thu, 11 Dec 2025 16:45:00 +0600</pubDate>
-      <guid>//localhost:1313/posts/fortnite-world-cup-2025-biggest-prize-pool-ever/</guid>
+      <guid>http://localhost:1313/posts/fortnite-world-cup-2025-biggest-prize-pool-ever/</guid>
       <description>Epic Games announces record-breaking $30 million prize pool for Fortnite World Cup 2025 with new format and locations.</description>
     </item>
   </channel>

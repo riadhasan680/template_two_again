@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Professional Skills on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/professional-skills/</link>
+    <link>http://localhost:1313/tags/professional-skills/</link>
     <description>Recent content in Professional Skills on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Dec 2025 18:00:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/professional-skills/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/professional-skills/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gaming and Career Development: Professional Skills Through Gaming</title>
-      <link>//localhost:1313/latest-articles/gaming-and-career-development-professional-skills-through-gaming/</link>
+      <link>http://localhost:1313/latest-articles/gaming-and-career-development-professional-skills-through-gaming/</link>
       <pubDate>Fri, 12 Dec 2025 18:00:00 +0600</pubDate>
-      <guid>//localhost:1313/latest-articles/gaming-and-career-development-professional-skills-through-gaming/</guid>
+      <guid>http://localhost:1313/latest-articles/gaming-and-career-development-professional-skills-through-gaming/</guid>
       <description>How gaming experiences develop professional skills valuable in career advancement.</description>
     </item>
   </channel>

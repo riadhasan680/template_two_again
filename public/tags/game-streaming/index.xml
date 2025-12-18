@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game Streaming on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/game-streaming/</link>
+    <link>http://localhost:1313/tags/game-streaming/</link>
     <description>Recent content in Game Streaming on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Dec 2025 07:15:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/game-streaming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/game-streaming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cloud Gaming Services Compared: Xbox vs PlayStation vs GeForce Now</title>
-      <link>//localhost:1313/latest-articles/cloud-gaming-services-compared-xbox-vs-playstation-vs-geforce-now/</link>
+      <link>http://localhost:1313/latest-articles/cloud-gaming-services-compared-xbox-vs-playstation-vs-geforce-now/</link>
       <pubDate>Mon, 15 Dec 2025 07:15:00 +0600</pubDate>
-      <guid>//localhost:1313/latest-articles/cloud-gaming-services-compared-xbox-vs-playstation-vs-geforce-now/</guid>
+      <guid>http://localhost:1313/latest-articles/cloud-gaming-services-compared-xbox-vs-playstation-vs-geforce-now/</guid>
       <description>Which cloud gaming service offers the best value and performance in 2025?</description>
     </item>
   </channel>

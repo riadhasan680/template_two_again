@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Family Gaming on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/family-gaming/</link>
+    <link>http://localhost:1313/tags/family-gaming/</link>
     <description>Recent content in Family Gaming on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Dec 2025 17:15:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/family-gaming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/family-gaming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gaming and Family Dynamics: Building Connections Through Play</title>
-      <link>//localhost:1313/latest-articles/gaming-and-family-dynamics-building-connections-through-play/</link>
+      <link>http://localhost:1313/latest-articles/gaming-and-family-dynamics-building-connections-through-play/</link>
       <pubDate>Thu, 11 Dec 2025 17:15:00 +0600</pubDate>
-      <guid>//localhost:1313/latest-articles/gaming-and-family-dynamics-building-connections-through-play/</guid>
+      <guid>http://localhost:1313/latest-articles/gaming-and-family-dynamics-building-connections-through-play/</guid>
       <description>How video games strengthen family relationships and create shared experiences.</description>
     </item>
   </channel>

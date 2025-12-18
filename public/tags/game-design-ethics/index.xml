@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game Design Ethics on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/game-design-ethics/</link>
+    <link>http://localhost:1313/tags/game-design-ethics/</link>
     <description>Recent content in Game Design Ethics on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Dec 2025 11:15:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/game-design-ethics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/game-design-ethics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Ethics of Game Design: Responsibility in Creating Compelling Experiences</title>
-      <link>//localhost:1313/latest-articles/the-ethics-of-game-design-responsibility-in-creating-compelling-experiences/</link>
+      <link>http://localhost:1313/latest-articles/the-ethics-of-game-design-responsibility-in-creating-compelling-experiences/</link>
       <pubDate>Sat, 13 Dec 2025 11:15:00 +0600</pubDate>
-      <guid>//localhost:1313/latest-articles/the-ethics-of-game-design-responsibility-in-creating-compelling-experiences/</guid>
+      <guid>http://localhost:1313/latest-articles/the-ethics-of-game-design-responsibility-in-creating-compelling-experiences/</guid>
       <description>Examining the ethical considerations in game design and developer responsibility.</description>
     </item>
   </channel>

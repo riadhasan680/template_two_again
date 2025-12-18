@@ -2,6 +2,7 @@
 title: "FORTNITE"
 layout: "categories"
 type: "categories"
+url: "categories/fortnite"
 ---
 
 # Fortnite

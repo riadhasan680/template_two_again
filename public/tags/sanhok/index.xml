@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sanhok on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/sanhok/</link>
+    <link>http://localhost:1313/tags/sanhok/</link>
     <description>Recent content in Sanhok on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Dec 2025 12:00:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/sanhok/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sanhok/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PUBG: New Sanhok Map Update</title>
-      <link>//localhost:1313/posts/pubg-new-sanhok-map-update/</link>
+      <link>http://localhost:1313/posts/pubg-new-sanhok-map-update/</link>
       <pubDate>Sat, 13 Dec 2025 12:00:00 +0600</pubDate>
-      <guid>//localhost:1313/posts/pubg-new-sanhok-map-update/</guid>
+      <guid>http://localhost:1313/posts/pubg-new-sanhok-map-update/</guid>
       <description>PUBG Mobile receives major Sanhok map update with new locations and improved performance.</description>
     </item>
   </channel>

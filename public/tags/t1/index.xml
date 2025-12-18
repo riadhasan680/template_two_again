@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>T1 on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/t1/</link>
+    <link>http://localhost:1313/tags/t1/</link>
     <description>Recent content in T1 on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Dec 2025 20:00:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/t1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/t1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>League of Legends Worlds 2025: T1 Wins Fourth Championship</title>
-      <link>//localhost:1313/posts/league-of-legends-worlds-2025-t1-wins-fourth-championship/</link>
+      <link>http://localhost:1313/posts/league-of-legends-worlds-2025-t1-wins-fourth-championship/</link>
       <pubDate>Thu, 11 Dec 2025 20:00:00 +0600</pubDate>
-      <guid>//localhost:1313/posts/league-of-legends-worlds-2025-t1-wins-fourth-championship/</guid>
+      <guid>http://localhost:1313/posts/league-of-legends-worlds-2025-t1-wins-fourth-championship/</guid>
       <description>Faker and T1 dominate the finals 3-0 against JDG, securing their fourth World Championship title in an incredible display of skill.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intelligent NPCs on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/intelligent-npcs/</link>
+    <link>http://localhost:1313/tags/intelligent-npcs/</link>
     <description>Recent content in Intelligent NPCs on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Dec 2025 15:00:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/intelligent-npcs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/intelligent-npcs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gaming and Artificial Intelligence: The Future of Intelligent NPCs</title>
-      <link>//localhost:1313/latest-articles/gaming-and-artificial-intelligence-the-future-of-intelligent-npcs/</link>
+      <link>http://localhost:1313/latest-articles/gaming-and-artificial-intelligence-the-future-of-intelligent-npcs/</link>
       <pubDate>Fri, 12 Dec 2025 15:00:00 +0600</pubDate>
-      <guid>//localhost:1313/latest-articles/gaming-and-artificial-intelligence-the-future-of-intelligent-npcs/</guid>
+      <guid>http://localhost:1313/latest-articles/gaming-and-artificial-intelligence-the-future-of-intelligent-npcs/</guid>
       <description>How AI is revolutionizing NPC behavior and creating more realistic game worlds.</description>
     </item>
   </channel>

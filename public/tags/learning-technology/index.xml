@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learning Technology on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/learning-technology/</link>
+    <link>http://localhost:1313/tags/learning-technology/</link>
     <description>Recent content in Learning Technology on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Dec 2025 00:00:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/learning-technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/learning-technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gaming and Education: How Games Are Revolutionizing Learning</title>
-      <link>//localhost:1313/latest-articles/gaming-and-education-how-games-are-revolutionizing-learning/</link>
+      <link>http://localhost:1313/latest-articles/gaming-and-education-how-games-are-revolutionizing-learning/</link>
       <pubDate>Sun, 14 Dec 2025 00:00:00 +0600</pubDate>
-      <guid>//localhost:1313/latest-articles/gaming-and-education-how-games-are-revolutionizing-learning/</guid>
+      <guid>http://localhost:1313/latest-articles/gaming-and-education-how-games-are-revolutionizing-learning/</guid>
       <description>The educational potential of video games and how they&amp;rsquo;re transforming traditional learning.</description>
     </item>
   </channel>

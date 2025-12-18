@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://template-two-psi.vercel.app"
 languageCode: "en-us"
 title: "Battle Royale Fanatics"
 theme: []
@@ -12,6 +12,7 @@ permalinks:
   hero: "/hero/:slug/"
   latest-news: "/latest-news/:slug/"
   latest-articles: "/latest-articles/:slug/"
+  categories: "/categories/:slug/"
 
 # Build settings
 build:

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Review on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/review/</link>
+    <link>http://localhost:1313/tags/review/</link>
     <description>Recent content in Review on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Dec 2025 10:00:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/review/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/review/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Review: &#39;Cyber-Frontier&#39; - A Buggy but Beautiful Mess</title>
-      <link>//localhost:1313/posts/review-cyber-frontier-a-buggy-but-beautiful-mess/</link>
+      <link>http://localhost:1313/posts/review-cyber-frontier-a-buggy-but-beautiful-mess/</link>
       <pubDate>Fri, 12 Dec 2025 10:00:00 +0600</pubDate>
-      <guid>//localhost:1313/posts/review-cyber-frontier-a-buggy-but-beautiful-mess/</guid>
+      <guid>http://localhost:1313/posts/review-cyber-frontier-a-buggy-but-beautiful-mess/</guid>
       <description>The graphics are next-gen, but the performance issues hold back what could have been the shooter of the year.</description>
     </item>
   </channel>

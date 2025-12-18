@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>COD Mobile 2 on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/cod-mobile-2/</link>
+    <link>http://localhost:1313/tags/cod-mobile-2/</link>
     <description>Recent content in COD Mobile 2 on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Dec 2025 16:00:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/cod-mobile-2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/cod-mobile-2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Call of Duty: Mobile 2 - Next Generation</title>
-      <link>//localhost:1313/posts/call-of-duty-mobile-2-next-generation/</link>
+      <link>http://localhost:1313/posts/call-of-duty-mobile-2-next-generation/</link>
       <pubDate>Fri, 12 Dec 2025 16:00:00 +0600</pubDate>
-      <guid>//localhost:1313/posts/call-of-duty-mobile-2-next-generation/</guid>
+      <guid>http://localhost:1313/posts/call-of-duty-mobile-2-next-generation/</guid>
       <description>Activision announces Call of Duty: Mobile 2 with Unreal Engine 5, 120 FPS gameplay, and cross-platform progression.</description>
     </item>
   </channel>

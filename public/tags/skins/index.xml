@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Skins on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/skins/</link>
+    <link>http://localhost:1313/tags/skins/</link>
     <description>Recent content in Skins on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Dec 2025 20:30:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/skins/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/skins/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Overwatch 2: Anniversary Event 2025</title>
-      <link>//localhost:1313/posts/overwatch-2-anniversary-event-2025/</link>
+      <link>http://localhost:1313/posts/overwatch-2-anniversary-event-2025/</link>
       <pubDate>Sat, 13 Dec 2025 20:30:00 +0600</pubDate>
-      <guid>//localhost:1313/posts/overwatch-2-anniversary-event-2025/</guid>
+      <guid>http://localhost:1313/posts/overwatch-2-anniversary-event-2025/</guid>
       <description>Overwatch 2 celebrates 9th anniversary with legendary skins, game modes, and special events.</description>
     </item>
     <item>
       <title>Fortnite Chapter 6 Season 2: Zero Point Returns</title>
-      <link>//localhost:1313/posts/fortnite-chapter-6-season-2-zero-point-returns/</link>
+      <link>http://localhost:1313/posts/fortnite-chapter-6-season-2-zero-point-returns/</link>
       <pubDate>Fri, 12 Dec 2025 10:00:00 +0600</pubDate>
-      <guid>//localhost:1313/posts/fortnite-chapter-6-season-2-zero-point-returns/</guid>
+      <guid>http://localhost:1313/posts/fortnite-chapter-6-season-2-zero-point-returns/</guid>
       <description>The island flips again! New battle pass skins revealed including a crossover with Matrix.</description>
     </item>
   </channel>

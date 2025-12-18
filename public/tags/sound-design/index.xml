@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sound Design on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/sound-design/</link>
+    <link>http://localhost:1313/tags/sound-design/</link>
     <description>Recent content in Sound Design on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Dec 2025 00:45:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/sound-design/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sound-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Future of Gaming Audio: Sound Design and Music Evolution</title>
-      <link>//localhost:1313/latest-articles/the-future-of-gaming-audio-sound-design-and-music-evolution/</link>
+      <link>http://localhost:1313/latest-articles/the-future-of-gaming-audio-sound-design-and-music-evolution/</link>
       <pubDate>Sat, 13 Dec 2025 00:45:00 +0600</pubDate>
-      <guid>//localhost:1313/latest-articles/the-future-of-gaming-audio-sound-design-and-music-evolution/</guid>
+      <guid>http://localhost:1313/latest-articles/the-future-of-gaming-audio-sound-design-and-music-evolution/</guid>
       <description>How audio technology and music in games are evolving with new innovations.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Map on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/map/</link>
+    <link>http://localhost:1313/tags/map/</link>
     <description>Recent content in Map on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Dec 2025 11:00:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/map/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/map/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Call of Duty Warzone: New Map Urzikstan Drops Today</title>
-      <link>//localhost:1313/posts/call-of-duty-warzone-new-map-urzikstan-drops-today/</link>
+      <link>http://localhost:1313/posts/call-of-duty-warzone-new-map-urzikstan-drops-today/</link>
       <pubDate>Sat, 13 Dec 2025 11:00:00 +0600</pubDate>
-      <guid>//localhost:1313/posts/call-of-duty-warzone-new-map-urzikstan-drops-today/</guid>
+      <guid>http://localhost:1313/posts/call-of-duty-warzone-new-map-urzikstan-drops-today/</guid>
       <description>The largest Warzone map ever created is now live, featuring diverse terrain and over 300 points of interest.</description>
     </item>
   </channel>

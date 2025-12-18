@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gaming Therapy on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/gaming-therapy/</link>
+    <link>http://localhost:1313/tags/gaming-therapy/</link>
     <description>Recent content in Gaming Therapy on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Dec 2025 13:30:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/gaming-therapy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/gaming-therapy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gaming and Physical Therapy: How Games Are Revolutionizing Rehabilitation</title>
-      <link>//localhost:1313/latest-articles/gaming-and-physical-therapy-how-games-are-revolutionizing-rehabilitation/</link>
+      <link>http://localhost:1313/latest-articles/gaming-and-physical-therapy-how-games-are-revolutionizing-rehabilitation/</link>
       <pubDate>Sat, 13 Dec 2025 13:30:00 +0600</pubDate>
-      <guid>//localhost:1313/latest-articles/gaming-and-physical-therapy-how-games-are-revolutionizing-rehabilitation/</guid>
+      <guid>http://localhost:1313/latest-articles/gaming-and-physical-therapy-how-games-are-revolutionizing-rehabilitation/</guid>
       <description>The use of video games in physical therapy and medical rehabilitation.</description>
     </item>
     <item>
       <title>Gaming and Mental Health: Therapeutic Applications and Benefits</title>
-      <link>//localhost:1313/latest-articles/gaming-and-mental-health-therapeutic-applications-and-benefits/</link>
+      <link>http://localhost:1313/latest-articles/gaming-and-mental-health-therapeutic-applications-and-benefits/</link>
       <pubDate>Fri, 12 Dec 2025 16:30:00 +0600</pubDate>
-      <guid>//localhost:1313/latest-articles/gaming-and-mental-health-therapeutic-applications-and-benefits/</guid>
+      <guid>http://localhost:1313/latest-articles/gaming-and-mental-health-therapeutic-applications-and-benefits/</guid>
       <description>How video games are being used therapeutically to support mental health treatment.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Communication Development on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/communication-development/</link>
+    <link>http://localhost:1313/tags/communication-development/</link>
     <description>Recent content in Communication Development on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Dec 2025 03:00:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/communication-development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/communication-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gaming and Social Skills: How Multiplayer Games Build Communication</title>
-      <link>//localhost:1313/latest-articles/gaming-and-social-skills-how-multiplayer-games-build-communication/</link>
+      <link>http://localhost:1313/latest-articles/gaming-and-social-skills-how-multiplayer-games-build-communication/</link>
       <pubDate>Fri, 12 Dec 2025 03:00:00 +0600</pubDate>
-      <guid>//localhost:1313/latest-articles/gaming-and-social-skills-how-multiplayer-games-build-communication/</guid>
+      <guid>http://localhost:1313/latest-articles/gaming-and-social-skills-how-multiplayer-games-build-communication/</guid>
       <description>The role of multiplayer gaming in developing social skills and communication abilities.</description>
     </item>
   </channel>

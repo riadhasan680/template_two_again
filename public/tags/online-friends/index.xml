@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Online Friends on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/online-friends/</link>
+    <link>http://localhost:1313/tags/online-friends/</link>
     <description>Recent content in Online Friends on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Dec 2025 12:00:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/online-friends/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/online-friends/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gaming Communities: Finding Your Tribe Online</title>
-      <link>//localhost:1313/latest-articles/gaming-communities-finding-your-tribe-online/</link>
+      <link>http://localhost:1313/latest-articles/gaming-communities-finding-your-tribe-online/</link>
       <pubDate>Sun, 14 Dec 2025 12:00:00 +0600</pubDate>
-      <guid>//localhost:1313/latest-articles/gaming-communities-finding-your-tribe-online/</guid>
+      <guid>http://localhost:1313/latest-articles/gaming-communities-finding-your-tribe-online/</guid>
       <description>How online gaming communities provide belonging and support in the digital age.</description>
     </item>
   </channel>

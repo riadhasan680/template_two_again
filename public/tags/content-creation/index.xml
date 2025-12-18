@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Content Creation on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/content-creation/</link>
+    <link>http://localhost:1313/tags/content-creation/</link>
     <description>Recent content in Content Creation on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Dec 2025 09:45:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/content-creation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/content-creation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Rise of Gaming Influencers: How Streamers Shape the Industry</title>
-      <link>//localhost:1313/latest-articles/the-rise-of-gaming-influencers-how-streamers-shape-the-industry/</link>
+      <link>http://localhost:1313/latest-articles/the-rise-of-gaming-influencers-how-streamers-shape-the-industry/</link>
       <pubDate>Sat, 13 Dec 2025 09:45:00 +0600</pubDate>
-      <guid>//localhost:1313/latest-articles/the-rise-of-gaming-influencers-how-streamers-shape-the-industry/</guid>
+      <guid>http://localhost:1313/latest-articles/the-rise-of-gaming-influencers-how-streamers-shape-the-industry/</guid>
       <description>The impact of gaming influencers and streamers on game development and player behavior.</description>
     </item>
     <item>
       <title>The Economics of Gaming Streaming: Content Creation and Platform Wars</title>
-      <link>//localhost:1313/latest-articles/the-economics-of-gaming-streaming-content-creation-and-platform-wars/</link>
+      <link>http://localhost:1313/latest-articles/the-economics-of-gaming-streaming-content-creation-and-platform-wars/</link>
       <pubDate>Fri, 12 Dec 2025 08:15:00 +0600</pubDate>
-      <guid>//localhost:1313/latest-articles/the-economics-of-gaming-streaming-content-creation-and-platform-wars/</guid>
+      <guid>http://localhost:1313/latest-articles/the-economics-of-gaming-streaming-content-creation-and-platform-wars/</guid>
       <description>Understanding the business models and economics behind gaming streaming platforms.</description>
     </item>
   </channel>

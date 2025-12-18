@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Support on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/support/</link>
+    <link>http://localhost:1313/tags/support/</link>
     <description>Recent content in Support on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Dec 2025 13:30:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/support/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/support/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Overwatch 2 Season 8: New Support Hero Announced</title>
-      <link>//localhost:1313/posts/overwatch-2-season-8-new-support-hero-announced/</link>
+      <link>http://localhost:1313/posts/overwatch-2-season-8-new-support-hero-announced/</link>
       <pubDate>Thu, 11 Dec 2025 13:30:00 +0600</pubDate>
-      <guid>//localhost:1313/posts/overwatch-2-season-8-new-support-hero-announced/</guid>
+      <guid>http://localhost:1313/posts/overwatch-2-season-8-new-support-hero-announced/</guid>
       <description>Blizzard reveals a new support hero with unique healing mechanics that reward aggressive positioning and team coordination.</description>
     </item>
     <item>
       <title>Overwatch 2: Hero 42 &#39;Nexus&#39; Breaks the Meta</title>
-      <link>//localhost:1313/posts/overwatch-2-hero-42-nexus-breaks-the-meta/</link>
+      <link>http://localhost:1313/posts/overwatch-2-hero-42-nexus-breaks-the-meta/</link>
       <pubDate>Thu, 04 Dec 2025 16:45:00 +0600</pubDate>
-      <guid>//localhost:1313/posts/overwatch-2-hero-42-nexus-breaks-the-meta/</guid>
+      <guid>http://localhost:1313/posts/overwatch-2-hero-42-nexus-breaks-the-meta/</guid>
       <description>Blizzard introduces Nexus, a reality-bending support hero that changes how teams approach team composition.</description>
     </item>
   </channel>

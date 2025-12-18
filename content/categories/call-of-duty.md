@@ -2,6 +2,7 @@
 title: "CALL OF DUTY"
 layout: "categories"
 type: "categories"
+url: "categories/call-of-duty"
 ---
 
 # Call of Duty

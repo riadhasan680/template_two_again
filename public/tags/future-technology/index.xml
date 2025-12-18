@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Future Technology on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/future-technology/</link>
+    <link>http://localhost:1313/tags/future-technology/</link>
     <description>Recent content in Future Technology on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Dec 2025 17:15:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/future-technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/future-technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Future of Mobile Gaming: Trends and Predictions</title>
-      <link>//localhost:1313/latest-articles/the-future-of-mobile-gaming-trends-and-predictions/</link>
+      <link>http://localhost:1313/latest-articles/the-future-of-mobile-gaming-trends-and-predictions/</link>
       <pubDate>Sat, 13 Dec 2025 17:15:00 +0600</pubDate>
-      <guid>//localhost:1313/latest-articles/the-future-of-mobile-gaming-trends-and-predictions/</guid>
+      <guid>http://localhost:1313/latest-articles/the-future-of-mobile-gaming-trends-and-predictions/</guid>
       <description>Exploring the technological and market trends shaping the future of mobile gaming.</description>
     </item>
   </channel>

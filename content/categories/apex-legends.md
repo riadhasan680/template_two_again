@@ -2,6 +2,7 @@
 title: "APEX LEGENDS"
 layout: "categories"
 type: "categories"
+url: "categories/apex-legends"
 ---
 
 # Apex Legends

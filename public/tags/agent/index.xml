@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agent on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/agent/</link>
+    <link>http://localhost:1313/tags/agent/</link>
     <description>Recent content in Agent on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Dec 2025 14:30:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/agent/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/agent/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Valorant Episode 8 Act 2: New Agent Revealed</title>
-      <link>//localhost:1313/posts/valorant-episode-8-act-2-new-agent-revealed/</link>
+      <link>http://localhost:1313/posts/valorant-episode-8-act-2-new-agent-revealed/</link>
       <pubDate>Sat, 13 Dec 2025 14:30:00 +0600</pubDate>
-      <guid>//localhost:1313/posts/valorant-episode-8-act-2-new-agent-revealed/</guid>
+      <guid>http://localhost:1313/posts/valorant-episode-8-act-2-new-agent-revealed/</guid>
       <description>Riot Games unveils a new controller agent with unique smoke abilities that can block vision and deal damage.</description>
     </item>
   </channel>

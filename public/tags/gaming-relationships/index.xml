@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gaming Relationships on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/gaming-relationships/</link>
+    <link>http://localhost:1313/tags/gaming-relationships/</link>
     <description>Recent content in Gaming Relationships on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Dec 2025 21:00:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/gaming-relationships/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/gaming-relationships/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gaming and Relationships: How Video Games Strengthen Social Bonds</title>
-      <link>//localhost:1313/latest-articles/gaming-and-relationships-how-video-games-strengthen-social-bonds/</link>
+      <link>http://localhost:1313/latest-articles/gaming-and-relationships-how-video-games-strengthen-social-bonds/</link>
       <pubDate>Sat, 13 Dec 2025 21:00:00 +0600</pubDate>
-      <guid>//localhost:1313/latest-articles/gaming-and-relationships-how-video-games-strengthen-social-bonds/</guid>
+      <guid>http://localhost:1313/latest-articles/gaming-and-relationships-how-video-games-strengthen-social-bonds/</guid>
       <description>The role of video games in building and maintaining relationships in the digital age.</description>
     </item>
   </channel>

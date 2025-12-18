@@ -2,6 +2,7 @@
 title: "LEAGUE OF LEGENDS"
 layout: "categories"
 type: "categories"
+url: "categories/league-of-legends"
 ---
 
 # League of Legends

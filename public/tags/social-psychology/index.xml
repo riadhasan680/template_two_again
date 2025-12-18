@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social Psychology on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/social-psychology/</link>
+    <link>http://localhost:1313/tags/social-psychology/</link>
     <description>Recent content in Social Psychology on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Dec 2025 06:45:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/social-psychology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/social-psychology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Psychology of Gaming Communities: Why We Belong</title>
-      <link>//localhost:1313/latest-articles/the-psychology-of-gaming-communities-why-we-belong/</link>
+      <link>http://localhost:1313/latest-articles/the-psychology-of-gaming-communities-why-we-belong/</link>
       <pubDate>Sat, 13 Dec 2025 06:45:00 +0600</pubDate>
-      <guid>//localhost:1313/latest-articles/the-psychology-of-gaming-communities-why-we-belong/</guid>
+      <guid>http://localhost:1313/latest-articles/the-psychology-of-gaming-communities-why-we-belong/</guid>
       <description>Understanding the social psychology of gaming communities and player belonging.</description>
     </item>
   </channel>

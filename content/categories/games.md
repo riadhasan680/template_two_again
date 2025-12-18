@@ -2,6 +2,7 @@
 title: "GAMES"
 layout: "categories"
 type: "categories"
+url: "categories/games"
 ---
 
 # Games Category

@@ -2,6 +2,7 @@
 title: "ARTIFICIAL INTELLIGENCE"
 layout: "categories"
 type: "categories"
+url: "categories/artificial-intelligence"
 ---
 
 # Artificial Intelligence in Gaming

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Therapeutic Gaming on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/therapeutic-gaming/</link>
+    <link>http://localhost:1313/tags/therapeutic-gaming/</link>
     <description>Recent content in Therapeutic Gaming on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Dec 2025 16:30:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/therapeutic-gaming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/therapeutic-gaming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gaming and Mental Health: Therapeutic Applications and Benefits</title>
-      <link>//localhost:1313/latest-articles/gaming-and-mental-health-therapeutic-applications-and-benefits/</link>
+      <link>http://localhost:1313/latest-articles/gaming-and-mental-health-therapeutic-applications-and-benefits/</link>
       <pubDate>Fri, 12 Dec 2025 16:30:00 +0600</pubDate>
-      <guid>//localhost:1313/latest-articles/gaming-and-mental-health-therapeutic-applications-and-benefits/</guid>
+      <guid>http://localhost:1313/latest-articles/gaming-and-mental-health-therapeutic-applications-and-benefits/</guid>
       <description>How video games are being used therapeutically to support mental health treatment.</description>
     </item>
     <item>
       <title>Gaming and Mental Wellness: Therapeutic Benefits and Healthy Habits</title>
-      <link>//localhost:1313/latest-articles/gaming-and-mental-wellness-therapeutic-benefits-and-healthy-habits/</link>
+      <link>http://localhost:1313/latest-articles/gaming-and-mental-wellness-therapeutic-benefits-and-healthy-habits/</link>
       <pubDate>Thu, 11 Dec 2025 20:15:00 +0600</pubDate>
-      <guid>//localhost:1313/latest-articles/gaming-and-mental-wellness-therapeutic-benefits-and-healthy-habits/</guid>
+      <guid>http://localhost:1313/latest-articles/gaming-and-mental-wellness-therapeutic-benefits-and-healthy-habits/</guid>
       <description>How video games support mental wellness and contribute to psychological wellbeing.</description>
     </item>
   </channel>

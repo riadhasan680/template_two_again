@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Map Control on Battle Royale Fanatics</title>
-    <link>//localhost:1313/tags/map-control/</link>
+    <link>http://localhost:1313/tags/map-control/</link>
     <description>Recent content in Map Control on Battle Royale Fanatics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Dec 2025 18:00:00 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/map-control/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/map-control/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apex Legends Battle Royale Map Control Guide</title>
-      <link>//localhost:1313/posts/apex-legends-battle-royale-map-control-guide/</link>
+      <link>http://localhost:1313/posts/apex-legends-battle-royale-map-control-guide/</link>
       <pubDate>Sat, 13 Dec 2025 18:00:00 +0600</pubDate>
-      <guid>//localhost:1313/posts/apex-legends-battle-royale-map-control-guide/</guid>
+      <guid>http://localhost:1313/posts/apex-legends-battle-royale-map-control-guide/</guid>
       <description>Complete guide to controlling zones and positioning on all Apex Legends Battle Royale maps for competitive advantage.</description>
     </item>
   </channel>
